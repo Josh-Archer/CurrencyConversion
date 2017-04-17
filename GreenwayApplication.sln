@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenwayApplication", "GreenwayApplication\GreenwayApplication.csproj", "{0878E9E7-3029-4F38-82FB-0B19378CDCEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenwayApplicationTests", "GreenwayApplicationTests\GreenwayApplicationTests.csproj", "{575DEEEC-2A26-48D8-A434-205336607E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0878E9E7-3029-4F38-82FB-0B19378CDCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0878E9E7-3029-4F38-82FB-0B19378CDCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0878E9E7-3029-4F38-82FB-0B19378CDCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0878E9E7-3029-4F38-82FB-0B19378CDCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575DEEEC-2A26-48D8-A434-205336607E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575DEEEC-2A26-48D8-A434-205336607E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575DEEEC-2A26-48D8-A434-205336607E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575DEEEC-2A26-48D8-A434-205336607E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
